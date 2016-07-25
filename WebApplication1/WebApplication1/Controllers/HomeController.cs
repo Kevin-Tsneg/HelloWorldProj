@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
     {
         public ActionResult Index()
         {
-            string name = "yuchang tseng!!";
+            string name = "yuchang tseng!!123456";
             return View();
         }
 
